@@ -1,16 +1,42 @@
-## Hi there 👋
+# SnakeSecurity
 
-<!--
-**SnakeSecurity/SnakeSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity journey, research, projects and knowledge...
 
-Here are some ideas to get you started:
+Just documenting stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- **DFIR** — Digital Forensics & Incident Response
+- **OSINT** — Open-Source Intelligence
+- **Anti-Cybercrime** — Research into scams, malicious infrastructure and online abuse
+- **Security Research** — Vulnerability research, analysis and experimentation
+- **Security Tooling** — Building tools for investigation, automation and analysis
+
+## What I'm Learning
+
+- Digital forensics & incident response
+- OSINT and digital investigations
+- Network and infrastructure analysis
+- Web security
+- Threat intelligence
+- Detection engineering
+- Security automation
+
+## Projects
+
+Projects, tools and research will be documented here as I build them.
+
+## Research Philosophy
+
+---> Evidence over assumptions.
+
+I aim to keep investigations reproducible, document sources and
+separate verified evidence from correlation and hypothesis.
+
+## Community
+
+Sharing knowledge, research and projects with the cybersecurity community.
+
+---
+
+<sub>SnakeSecurity · Cybersecurity research & digital investigations</sub>
