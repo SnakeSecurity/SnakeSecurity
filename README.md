@@ -1,8 +1,8 @@
 # SnakeSecurity
 
-Cybersecurity journey, research, projects and knowledge...
+> Cybersecurity journey, research, projects and knowledge.
 
-Just documenting stuff.
+Just documenting what I learn, build and investigate.
 
 ## Focus
 
