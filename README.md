@@ -28,7 +28,7 @@ Projects, tools and research will be documented here as I build them.
 
 ## Research Philosophy
 
----> Evidence over assumptions.
+> Evidence over assumptions.
 
 I aim to keep investigations reproducible, document sources and
 separate verified evidence from correlation and hypothesis.
